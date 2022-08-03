@@ -10,7 +10,7 @@ const seo = {
   og: {
     title: "Adams' Portfolio",
     type: "website",
-    url: "http://adamsfolio.github.io/",
+    url: "http://adamsfolio.netlify.app/home/",
   },
 };
 
