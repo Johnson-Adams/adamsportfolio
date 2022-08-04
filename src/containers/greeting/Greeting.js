@@ -26,7 +26,7 @@ export default function Greeting(props) {
                 <Typewriter
                   onInit={(typewriter) => {
                     typewriter
-                      .typeString("Modern Control")
+                      .typeString("Optimal Control")
                       .pauseFor(200)
                       .deleteAll()
                       .typeString("ML Enthusiast")

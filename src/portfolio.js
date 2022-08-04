@@ -157,7 +157,7 @@ const skills = {
         "⚡ Comfortable with designing complex structures in CAD softwares like Fusion 360",
         "⚡ Worked throughout the process from realising idea to developing the final product across multiple domains",
         "⚡ Programming with several micro-controllers to acquire and process data from/to transducers, along with wiring, harnessing and electrical interfacing",
-        "⚡ Established IOT way efficient architecture from home appliances to formula car applications",
+        "⚡ Established IoT architecture ranging from home appliances to formula car applications",
       ],
       softwareSkills: [
         // {
