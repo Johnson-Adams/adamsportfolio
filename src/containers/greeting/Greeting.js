@@ -50,7 +50,7 @@ export default function Greeting(props) {
                 style={{ color: theme.text }}>
                 <div className="entities">
                   An aspiring full-stack <mark data-entity="noun">Robotics Developer</mark>{" "}
-                  with main emphasis on <mark data-entity="skill">Machine Learning</mark>{" "} Algorithms in Motion Planning of Mobile Systems and <mark data-entity="skill">Product Development</mark>
+                  looking to <mark data-entity="verb">enhance capabilities</mark> of Autonomous Systems with my diverse <mark data-entity="skill">problem solving</mark> exposure across several domains.
                 </div>
               </span>
               <CompetitiveSites logos={competitiveSites.competitiveSites} />

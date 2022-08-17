@@ -6,7 +6,7 @@ const settings = {
 const seo = {
   title: "Johnson Adams | Portfolio",
   description:
-    "A Data Science who to leverage startups with AI based solutions with a blend of UI/UX",
+    "",
   og: {
     title: "Adams' Portfolio",
     type: "website",
@@ -26,12 +26,12 @@ const greeting = {
 const competitiveSites = {
   competitiveSites: [
     {
-      siteName: "Gitlab",
-      iconifyClassname: "vscode-icons:file-type-gitlab",
+      siteName: "Github",
+      iconifyClassname: "simple-icons:github",
       style: {
         color: "white",
       },
-      profileLink: "https://gitlab.com/adamsawesome",
+      profileLink: "https://github.com/clearthestars",
     },
     {
       siteName: "Leetcode",
@@ -583,7 +583,7 @@ const socialMediaLinks = [
   // },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/adams-s-095971192/",
+    link: "https://www.linkedin.com/in/adams-s/",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
@@ -595,7 +595,7 @@ const socialMediaLinks = [
   // },
   {
     name: "Gmail",
-    link: "mailto:adamsawesome326@gmail.com",
+    link: "mailto:s.adams@columbia.edu",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
