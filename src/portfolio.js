@@ -19,7 +19,7 @@ const greeting = {
   title: "Hello World!",
   sub: "Johnson Adams",
   logo_name: "Johnson Adams",
-  resumeLink: "https://drive.google.com/file/d/15sBxRz8UXc5MPIiZGUmHek_HX98xMxIg/view?usp=sharing",
+  resumeLink: "https://drive.google.com/file/d/1Z5p4s36FX3pmLMSbAonW-60umNUXnMaY/view?usp=sharing",
 };
 
 // home logos
@@ -47,7 +47,7 @@ const competitiveSites = {
       style: {
         color: "#0077b5",
       },
-      profileLink: "https://www.linkedin.com/in/adams-s-095971192/",
+      profileLink: "https://www.linkedin.com/in/adams-s/",
     },
   ],
 };
