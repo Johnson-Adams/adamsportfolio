@@ -47,7 +47,7 @@ const competitiveSites = {
       style: {
         color: "#0077b5",
       },
-      profileLink: "https://www.linkedin.com/in/adams-s/",
+      profileLink: "https://www.linkedin.com/in/johnson-adams/",
     },
   ],
 };
