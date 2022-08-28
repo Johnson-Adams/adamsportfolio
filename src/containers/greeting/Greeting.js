@@ -49,8 +49,8 @@ export default function Greeting(props) {
                 className="greeting-text-span subTitle"
                 style={{ color: theme.text }}>
                 <div className="entities">
-                  An aspiring full-stack <mark data-entity="noun">Robotics Developer</mark>{" "}
-                  looking to <mark data-entity="verb">enhance capabilities</mark> of Autonomous Systems with my diverse <mark data-entity="skill">problem solving</mark> exposure across several domains.
+                  A full-stack <mark data-entity="noun">Robotics Developer</mark>{" "}
+                  looking to <mark data-entity="verb">enhance capabilities</mark> of Autonomous Systems with my diverse <mark data-entity="skill">problem solving</mark> exposure across multiple domains.
                 </div>
               </span>
               <CompetitiveSites logos={competitiveSites.competitiveSites} />
