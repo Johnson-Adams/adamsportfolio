@@ -205,8 +205,24 @@ const projectsHeader = {
 const projectcards = {
   list: [
     {
+      title: "Sim2Real Gap in Dexterous In-Hand Manipulation",
+      img_path: "ppi02.png",
+      description:
+        "a highly dexterous robot hand that combines an advanced sense of touch with motor learning algorithms in order to achieve a high level of dexterity",
+      tags: [
+        {
+          lang: "",
+          color: "",
+        },
+      ],
+      link: "https://www.engineering.columbia.edu/news/highly-dexterous-robot-hand-can-operate-in-the-dark",
+      code: "https://www.engineering.columbia.edu/news/highly-dexterous-robot-hand-can-operate-in-the-dark",
+      linkcolor: "white",
+    },
+
+    {
       title: "Robotic Meta-Material",
-      img_path: "ppi01.gif",
+      img_path: "ppi03.gif",
       description:
         "An active system with periodically varying bandgap nature to manipulate the incoming vibrations",
       tags: [
@@ -222,7 +238,7 @@ const projectcards = {
 
     {
       title: "MPC based Path Following",
-      img_path: "ppi02.png",
+      img_path: "ppi04.png",
       description:
         "A research on MPC performance wrt classical PID and LQR with heading control and path following of a complicated container model.",
       tags: [
@@ -237,7 +253,7 @@ const projectcards = {
     },
     {
       title: "DAQ in FSAE Car",
-      img_path: "ppi03.png",
+      img_path: "ppi05.png",
       description:
         "Encompasses design of entire electrical system of a racecar from scratch and complying with FS rules",
       tags: [
@@ -252,7 +268,7 @@ const projectcards = {
     },
     {
       title: "Vehicle Networking in ADAS",
-      img_path: "ppi04.png",
+      img_path: "ppi06.png",
       description:
         "Developing Android app and incorporating with the ADAS architecture for more features.",
       tags: [
@@ -267,7 +283,7 @@ const projectcards = {
     },
     {
       title: "Engine Controller of Ethanol-Gasoline Dual Injection",
-      img_path: "ppi05.png",
+      img_path: "ppi07.png",
       description:
         "An approach to tackle the problems of fuel blend by precisely controlling the fuel input with dedicated GDIs",
       tags: [
@@ -283,7 +299,7 @@ const projectcards = {
 
     {
       title: "OBD + Mobile Sensors based Vehicle Assessment ",
-      img_path: "ppi06.jpg",
+      img_path: "ppi08.jpg",
       description:
         "Diagnostic protocol and mobile motion sensors as tools to analyse ride performance.",
       tags: [
@@ -331,10 +347,33 @@ const resumeleft = {
     title: ["Experience"],
     data: [
       {
+        title: "Mechatronics and Controls Intern",
+        subtitle: "ASML (Wilton, CT)",
+        date: "May 2023 - Aug 2023",
+        content: [
+          "Automated critical test analysis in frequency domain to identify and diagnose malfunctions in lithography machines operating at 30 g",
+          "Created an AI tool with Gaussian Processes in MATLAB to predict population band based PSD data of errors in all 6DOF",
+          "Reduced overall processing time by 92% enabling test engineers facilitate new product integration and increase production throughput",
+        ],
+      },
+      {
+        title: "Graduate Research Assistant",
+        subtitle: "Columbia University (New York, NY)",
+        date: "Sep 2022 - Feb 2023",
+        content: [
+          "Constructed admittance control in C++ for 5 fingered in-hand serial manipulators to gait uniform objects with intrinsic tactile sensing",
+          "Incorporated ROS 1 to integrate multiple python packages and transducers of MIMO system with latency and friction considerations",
+          "Addressed the simulation and results real MIMO system gap to 90% accuracy by tuning various parameters using step response",
+        ],
+      },
+      {
         title: "Research Associate",
-        subtitle: "Indian Institute of Science (IISc)",
+        subtitle: "Indian Institute of Science (IISc) (Bangalore, India)",
         date: "Nov 2021 - Jul 2022",
         content: [
+          "Developed novel 1 DoF robotic pendulum meta-material by assessing magnetic dipole principles relating to input frequency",
+          "Derived and solved analytical equation with periodic stiffness and resulting band gap variation using 4th order numerical RK method",
+          "Improved model by validating 2 lattice prototype with object detection tools and handled technicals of high-end lab equipments",
           // "Used T5 Transformer Model to build a Question Answering Model which generates questions based on Keywords extracted (WordNet, Sense2Vec) from studyshot notes.",
           // "Built an MCQ Generation model using BERT",
           // "Developed a personalized Chatbot using Rasa (Botfront.io).",
@@ -347,26 +386,32 @@ const resumeleft = {
       },
       {
         title: "Undergraduate Researcher",
-        subtitle: "Indian Institute of Technology Madras",
+        subtitle: "Indian Institute of Technology Madras (Chennai, India)",
         date: "Feb 2021 - Aug 2021",
         content: [
-          
+          "Solved the unaddressed straight-line instability of 6 DoF coupled tanker model by linearizing with System Identification method",
+          "Employed resulting LTI stable system to tune MPC and classical optimization law parameters in Simulink for constant desired heading",
+          "Compared MPC performance with 2 classical closed-loop systems for path following with LoS Algorithm in simulated disturbances",
         ],
       },
       {
         title: "Powertrain Engineer in FSAE Team",
-        subtitle: "Raftar Formula Racing",
+        subtitle: "Raftar Formula Racing (Chennai, India)",
         date: "Jan 2019 - May 2020",
         content: [
-          
+          "Built industrial grade electrical harness and custom ECU algorithms for 3 dynamic race events to enhance overall fuel efficiency",
+          "Structured Raspberry Pi based driver display fusing data from engine & vehicle sensors and real-time telemetry with MATLAB",
+          "Instilled CAN bus to replace star topology and revamp reliability with 30% reduced wiring and trained juniors for future competitions"
         ],
       },
       {
         title: "Android Developer Intern",
-        subtitle: "Planys Tech",
+        subtitle: "Planys Tech (Chennai, India)",
         date: "May 2018 - Aug 2018",
         content: [
-          
+          "Developed an algorithm to generate and store a systematic report on each operation of submersible ROVs, improving time constraints for operations team and enabled proper documentation with less efforts",
+          "Developed an Android app to provide weather forecast to decide on feasible operating time and suggested ROV deployable location for supervising underwater structures"
+
         ],
       },
       // {
