@@ -5,8 +5,7 @@ const settings = {
 //SEO Related settings
 const seo = {
   title: "Johnson Adams | Portfolio",
-  description:
-    "",
+  description: "",
   og: {
     title: "Adams' Portfolio",
     type: "website",
@@ -19,7 +18,8 @@ const greeting = {
   title: "Hello World!",
   sub: "Johnson Adams",
   logo_name: "Johnson Adams",
-  resumeLink: "https://drive.google.com/file/d/1Z5p4s36FX3pmLMSbAonW-60umNUXnMaY/view?usp=sharing",
+  resumeLink:
+    "https://drive.google.com/file/d/1Z5p4s36FX3pmLMSbAonW-60umNUXnMaY/view?usp=sharing",
 };
 
 // home logos
@@ -215,8 +215,10 @@ const projectcards = {
           color: "",
         },
       ],
-      link: "https://www.engineering.columbia.edu/news/highly-dexterous-robot-hand-can-operate-in-the-dark",
-      code: "https://www.engineering.columbia.edu/news/highly-dexterous-robot-hand-can-operate-in-the-dark",
+      link:
+        "https://www.engineering.columbia.edu/news/highly-dexterous-robot-hand-can-operate-in-the-dark",
+      code:
+        "https://www.engineering.columbia.edu/news/highly-dexterous-robot-hand-can-operate-in-the-dark",
       linkcolor: "white",
     },
 
@@ -231,8 +233,10 @@ const projectcards = {
           color: "",
         },
       ],
-      link: "https://docs.google.com/document/d/1fL7o885RzIH1oBm01vyk0_zD_s5TUCVqNPIOeqtn15U/edit?usp=sharing",
-      code: "https://docs.google.com/document/d/1fL7o885RzIH1oBm01vyk0_zD_s5TUCVqNPIOeqtn15U/edit?usp=sharing",
+      link:
+        "https://docs.google.com/document/d/1fL7o885RzIH1oBm01vyk0_zD_s5TUCVqNPIOeqtn15U/edit?usp=sharing",
+      code:
+        "https://docs.google.com/document/d/1fL7o885RzIH1oBm01vyk0_zD_s5TUCVqNPIOeqtn15U/edit?usp=sharing",
       linkcolor: "white",
     },
 
@@ -247,8 +251,10 @@ const projectcards = {
           color: "",
         },
       ],
-      link: "https://docs.google.com/document/d/1Obw6KUTjIieU0PA1Lkk-DQSzkOj6PswvhBmS9DvTZMg/edit?usp=sharing",
-      code: "https://docs.google.com/document/d/1Obw6KUTjIieU0PA1Lkk-DQSzkOj6PswvhBmS9DvTZMg/edit?usp=sharing",
+      link:
+        "https://docs.google.com/document/d/1Obw6KUTjIieU0PA1Lkk-DQSzkOj6PswvhBmS9DvTZMg/edit?usp=sharing",
+      code:
+        "https://docs.google.com/document/d/1Obw6KUTjIieU0PA1Lkk-DQSzkOj6PswvhBmS9DvTZMg/edit?usp=sharing",
       linkcolor: "white",
     },
     {
@@ -262,8 +268,10 @@ const projectcards = {
           color: "",
         },
       ],
-      link: "https://docs.google.com/document/d/1OEsNfz_KNf6eV_1XV4FyhH9oDfPZtLa0WZujYy20Sss/edit?usp=sharing",
-      code: "https://docs.google.com/document/d/1OEsNfz_KNf6eV_1XV4FyhH9oDfPZtLa0WZujYy20Sss/edit?usp=sharing",
+      link:
+        "https://docs.google.com/document/d/1OEsNfz_KNf6eV_1XV4FyhH9oDfPZtLa0WZujYy20Sss/edit?usp=sharing",
+      code:
+        "https://docs.google.com/document/d/1OEsNfz_KNf6eV_1XV4FyhH9oDfPZtLa0WZujYy20Sss/edit?usp=sharing",
       linkcolor: "white",
     },
     {
@@ -277,8 +285,10 @@ const projectcards = {
           color: "",
         },
       ],
-      link: "https://docs.google.com/document/d/1dEWz5YrYHfYE1JmXK0BEaGmo-cfV8EUeXsvRf6gOAOU/edit?usp=sharing",
-      code: "https://docs.google.com/document/d/1dEWz5YrYHfYE1JmXK0BEaGmo-cfV8EUeXsvRf6gOAOU/edit?usp=sharing",
+      link:
+        "https://docs.google.com/document/d/1dEWz5YrYHfYE1JmXK0BEaGmo-cfV8EUeXsvRf6gOAOU/edit?usp=sharing",
+      code:
+        "https://docs.google.com/document/d/1dEWz5YrYHfYE1JmXK0BEaGmo-cfV8EUeXsvRf6gOAOU/edit?usp=sharing",
       linkcolor: "white",
     },
     {
@@ -292,8 +302,10 @@ const projectcards = {
           color: "",
         },
       ],
-      link: "https://docs.google.com/document/d/1bUzHi-1AZ3BsggMpabLzJH3eLpiLtVHosLlRGSY8vb4/edit?usp=sharing",
-      code: "https://docs.google.com/document/d/1bUzHi-1AZ3BsggMpabLzJH3eLpiLtVHosLlRGSY8vb4/edit?usp=sharing",
+      link:
+        "https://docs.google.com/document/d/1bUzHi-1AZ3BsggMpabLzJH3eLpiLtVHosLlRGSY8vb4/edit?usp=sharing",
+      code:
+        "https://docs.google.com/document/d/1bUzHi-1AZ3BsggMpabLzJH3eLpiLtVHosLlRGSY8vb4/edit?usp=sharing",
       linkcolor: "white",
     },
 
@@ -308,8 +320,10 @@ const projectcards = {
           color: "",
         },
       ],
-      link: "https://docs.google.com/presentation/d/1FcPOEfOMza4zVJTiFlk4unuijgoFeGan/edit?usp=sharing&ouid=113309634103936631819&rtpof=true&sd=true",
-      code: "https://docs.google.com/presentation/d/1FcPOEfOMza4zVJTiFlk4unuijgoFeGan/edit?usp=sharing&ouid=113309634103936631819&rtpof=true&sd=true",
+      link:
+        "https://docs.google.com/presentation/d/1FcPOEfOMza4zVJTiFlk4unuijgoFeGan/edit?usp=sharing&ouid=113309634103936631819&rtpof=true&sd=true",
+      code:
+        "https://docs.google.com/presentation/d/1FcPOEfOMza4zVJTiFlk4unuijgoFeGan/edit?usp=sharing&ouid=113309634103936631819&rtpof=true&sd=true",
       linkcolor: "white",
     },
     // {
@@ -401,7 +415,7 @@ const resumeleft = {
         content: [
           "Built industrial grade electrical harness and custom ECU algorithms for 3 dynamic race events to enhance overall fuel efficiency",
           "Structured Raspberry Pi based driver display fusing data from engine & vehicle sensors and real-time telemetry with MATLAB",
-          "Instilled CAN bus to replace star topology and revamp reliability with 30% reduced wiring and trained juniors for future competitions"
+          "Instilled CAN bus to replace star topology and revamp reliability with 30% reduced wiring and trained juniors for future competitions",
         ],
       },
       {
@@ -410,8 +424,7 @@ const resumeleft = {
         date: "May 2018 - Aug 2018",
         content: [
           "Developed an algorithm to generate and store a systematic report on each operation of submersible ROVs, improving time constraints for operations team and enabled proper documentation with less efforts",
-          "Developed an Android app to provide weather forecast to decide on feasible operating time and suggested ROV deployable location for supervising underwater structures"
-
+          "Developed an Android app to provide weather forecast to decide on feasible operating time and suggested ROV deployable location for supervising underwater structures",
         ],
       },
       // {
@@ -419,7 +432,7 @@ const resumeleft = {
       //   subtitle: "IIT Guwahati",
       //   date: "April 2020 - June 2020",
       //   content: [
-          
+
       //   ],
       // },
     ],
@@ -609,11 +622,11 @@ const contactPageData = {
   },
   addressSection: {
     title: "Address",
-    subtitle: "1 Convent Ave, NYC-10027",
+    subtitle: "1 Convent Ave, New York, NY 10027",
   },
   phoneSection: {
     title: "Phone Number",
-    subtitle: "+91 7339550659",
+    subtitle: "(332) 201-4933",
   },
 };
 
@@ -628,7 +641,7 @@ const socialMediaLinks = [
   // },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/adams-s/",
+    link: "https://www.linkedin.com/in/johnson-adams/",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
